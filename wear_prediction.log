@@ -1,0 +1,552 @@
+2025-03-14 13:20:30,387 - INFO - Using device: cpu
+2025-03-14 13:20:30,387 - INFO - Starting Wear Prediction GNN
+2025-03-14 13:20:30,387 - INFO - Using real data from files
+2025-03-14 13:20:30,402 - INFO - Loading real data from files
+2025-03-14 13:36:04,333 - INFO - Using device: cpu
+2025-03-14 13:36:04,338 - INFO - Starting Wear Prediction GNN
+2025-03-14 13:36:04,341 - INFO - Using real data from files
+2025-03-14 13:36:04,344 - INFO - Loading real data from files
+2025-03-14 13:37:55,257 - INFO - Using device: cpu
+2025-03-14 13:37:55,257 - INFO - Loading dataset from wear_dataset
+2025-03-14 13:37:56,323 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:37:56,326 - INFO - Loaded sample_01: 121 nodes, 100 elements
+2025-03-14 13:37:56,606 - ERROR - Error loading sample sample_01: gca() got an unexpected keyword argument 'projection'
+2025-03-14 13:37:57,341 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:37:57,357 - INFO - Loaded sample_02: 81 nodes, 64 elements
+2025-03-14 13:37:57,531 - ERROR - Error loading sample sample_02: gca() got an unexpected keyword argument 'projection'
+2025-03-14 13:38:03,895 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:03,895 - INFO - Loaded sample_03: 121 nodes, 100 elements
+2025-03-14 13:38:04,080 - ERROR - Error loading sample sample_03: gca() got an unexpected keyword argument 'projection'
+2025-03-14 13:38:04,458 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:04,458 - INFO - Loaded sample_04: 144 nodes, 121 elements
+2025-03-14 13:38:04,828 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:04,844 - INFO - Loaded sample_05: 121 nodes, 100 elements
+2025-03-14 13:38:05,245 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:05,245 - INFO - Loaded sample_06: 196 nodes, 169 elements
+2025-03-14 13:38:05,567 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:05,567 - INFO - Loaded sample_07: 81 nodes, 64 elements
+2025-03-14 13:38:05,748 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:05,764 - INFO - Loaded sample_08: 121 nodes, 100 elements
+2025-03-14 13:38:06,048 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:06,048 - INFO - Loaded sample_09: 100 nodes, 81 elements
+2025-03-14 13:38:06,286 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:06,302 - INFO - Loaded sample_10: 81 nodes, 64 elements
+2025-03-14 13:38:06,650 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:06,650 - INFO - Loaded sample_11: 100 nodes, 81 elements
+2025-03-14 13:38:06,918 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:06,937 - INFO - Loaded sample_12: 121 nodes, 100 elements
+2025-03-14 13:38:07,225 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:07,228 - INFO - Loaded sample_13: 144 nodes, 121 elements
+2025-03-14 13:38:07,556 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:07,556 - INFO - Loaded sample_14: 144 nodes, 121 elements
+2025-03-14 13:38:07,820 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:07,820 - INFO - Loaded sample_15: 121 nodes, 100 elements
+2025-03-14 13:38:08,121 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:08,121 - INFO - Loaded sample_16: 144 nodes, 121 elements
+2025-03-14 13:38:08,421 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:08,421 - INFO - Loaded sample_17: 64 nodes, 49 elements
+2025-03-14 13:38:08,838 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:08,838 - INFO - Loaded sample_18: 196 nodes, 169 elements
+2025-03-14 13:38:09,393 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:09,393 - INFO - Loaded sample_19: 64 nodes, 49 elements
+2025-03-14 13:38:16,919 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:16,931 - INFO - Loaded sample_20: 81 nodes, 64 elements
+2025-03-14 13:38:17,280 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:17,280 - INFO - Loaded sample_21: 169 nodes, 144 elements
+2025-03-14 13:38:17,748 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:17,748 - INFO - Loaded sample_22: 64 nodes, 49 elements
+2025-03-14 13:38:18,132 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:18,147 - INFO - Loaded sample_23: 196 nodes, 169 elements
+2025-03-14 13:38:18,518 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:18,518 - INFO - Loaded sample_24: 64 nodes, 49 elements
+2025-03-14 13:38:18,793 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:18,808 - INFO - Loaded sample_25: 100 nodes, 81 elements
+2025-03-14 13:38:19,194 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:19,209 - INFO - Loaded sample_26: 64 nodes, 49 elements
+2025-03-14 13:38:19,595 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:19,595 - INFO - Loaded sample_27: 196 nodes, 169 elements
+2025-03-14 13:38:19,950 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:19,950 - INFO - Loaded sample_28: 100 nodes, 81 elements
+2025-03-14 13:38:20,566 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:20,566 - INFO - Loaded sample_29: 64 nodes, 49 elements
+2025-03-14 13:38:20,937 - ERROR - Error creating graph: Numpy is not available
+2025-03-14 13:38:20,937 - INFO - Loaded sample_30: 64 nodes, 49 elements
+2025-03-14 13:38:20,937 - INFO - Successfully loaded 30 samples
+2025-03-14 13:38:20,937 - INFO - Dataset samples visualized. Check 'sample_visualizations' directory.
+2025-03-14 13:40:43,481 - INFO - Using device: cpu
+2025-03-14 13:40:43,481 - INFO - Starting Wear Prediction GNN
+2025-03-14 13:40:43,481 - INFO - Using real data from files
+2025-03-14 13:40:43,495 - INFO - Loading real data from files
+2025-03-14 13:41:20,123 - INFO - Using device: cpu
+2025-03-14 13:41:20,123 - INFO - Starting Wear Prediction GNN with custom dataset
+2025-03-14 13:41:20,138 - INFO - Loading dataset from wear_dataset
+2025-03-14 13:41:27,663 - INFO - Loaded sample_01: 121 nodes, 100 elements
+2025-03-14 13:41:28,114 - ERROR - Error loading sample sample_01: gca() got an unexpected keyword argument 'projection'
+2025-03-14 13:41:28,380 - INFO - Loaded sample_02: 81 nodes, 64 elements
+2025-03-14 13:41:28,612 - ERROR - Error loading sample sample_02: gca() got an unexpected keyword argument 'projection'
+2025-03-14 13:41:28,846 - INFO - Loaded sample_03: 121 nodes, 100 elements
+2025-03-14 13:41:29,029 - ERROR - Error loading sample sample_03: gca() got an unexpected keyword argument 'projection'
+2025-03-14 13:41:29,267 - INFO - Loaded sample_04: 144 nodes, 121 elements
+2025-03-14 13:41:29,419 - INFO - Loaded sample_05: 121 nodes, 100 elements
+2025-03-14 13:41:29,553 - INFO - Loaded sample_06: 196 nodes, 169 elements
+2025-03-14 13:41:29,639 - INFO - Loaded sample_07: 81 nodes, 64 elements
+2025-03-14 13:41:29,737 - INFO - Loaded sample_08: 121 nodes, 100 elements
+2025-03-14 13:41:29,856 - INFO - Loaded sample_09: 100 nodes, 81 elements
+2025-03-14 13:41:29,958 - INFO - Loaded sample_10: 81 nodes, 64 elements
+2025-03-14 13:41:30,068 - INFO - Loaded sample_11: 100 nodes, 81 elements
+2025-03-14 13:41:33,520 - INFO - Loaded sample_12: 121 nodes, 100 elements
+2025-03-14 13:41:33,614 - INFO - Loaded sample_13: 144 nodes, 121 elements
+2025-03-14 13:41:33,742 - INFO - Loaded sample_14: 144 nodes, 121 elements
+2025-03-14 13:41:33,852 - INFO - Loaded sample_15: 121 nodes, 100 elements
+2025-03-14 13:41:33,944 - INFO - Loaded sample_16: 144 nodes, 121 elements
+2025-03-14 13:41:34,021 - INFO - Loaded sample_17: 64 nodes, 49 elements
+2025-03-14 13:41:34,109 - INFO - Loaded sample_18: 196 nodes, 169 elements
+2025-03-14 13:41:34,425 - INFO - Loaded sample_19: 64 nodes, 49 elements
+2025-03-14 13:41:34,709 - INFO - Loaded sample_20: 81 nodes, 64 elements
+2025-03-14 13:41:34,993 - INFO - Loaded sample_21: 169 nodes, 144 elements
+2025-03-14 13:41:35,087 - INFO - Loaded sample_22: 64 nodes, 49 elements
+2025-03-14 13:41:35,195 - INFO - Loaded sample_23: 196 nodes, 169 elements
+2025-03-14 13:41:35,373 - INFO - Loaded sample_24: 64 nodes, 49 elements
+2025-03-14 13:41:35,460 - INFO - Loaded sample_25: 100 nodes, 81 elements
+2025-03-14 13:41:35,558 - INFO - Loaded sample_26: 64 nodes, 49 elements
+2025-03-14 13:41:35,680 - INFO - Loaded sample_27: 196 nodes, 169 elements
+2025-03-14 13:41:35,761 - INFO - Loaded sample_28: 100 nodes, 81 elements
+2025-03-14 13:41:35,894 - INFO - Loaded sample_29: 64 nodes, 49 elements
+2025-03-14 13:41:36,011 - INFO - Loaded sample_30: 64 nodes, 49 elements
+2025-03-14 13:41:36,011 - INFO - Successfully loaded 30 samples
+2025-03-14 13:41:36,026 - INFO - Preparing datasets
+2025-03-14 13:41:36,031 - INFO - Dataset split: 21 train, 4 validation, 5 test
+2025-03-14 13:41:36,245 - INFO - Model created with 6 node features and 3 edge features
+2025-03-14 13:41:36,245 - INFO - Starting training for 150 epochs
+2025-03-14 13:48:42,831 - INFO - Using device: cpu
+2025-03-14 13:48:42,843 - INFO - Starting Wear Prediction GNN with custom dataset
+2025-03-14 13:48:42,859 - INFO - Loading dataset from wear_dataset
+2025-03-14 13:48:49,601 - INFO - Loaded sample_01: 121 nodes, 100 elements
+2025-03-14 13:48:50,292 - INFO - Loaded sample_02: 81 nodes, 64 elements
+2025-03-14 13:48:50,969 - INFO - Loaded sample_03: 121 nodes, 100 elements
+2025-03-14 13:48:51,603 - INFO - Loaded sample_04: 144 nodes, 121 elements
+2025-03-14 13:48:51,752 - INFO - Loaded sample_05: 121 nodes, 100 elements
+2025-03-14 13:48:51,955 - INFO - Loaded sample_06: 196 nodes, 169 elements
+2025-03-14 13:48:52,071 - INFO - Loaded sample_07: 81 nodes, 64 elements
+2025-03-14 13:48:52,203 - INFO - Loaded sample_08: 121 nodes, 100 elements
+2025-03-14 13:48:52,337 - INFO - Loaded sample_09: 100 nodes, 81 elements
+2025-03-14 13:48:52,437 - INFO - Loaded sample_10: 81 nodes, 64 elements
+2025-03-14 13:48:52,537 - INFO - Loaded sample_11: 100 nodes, 81 elements
+2025-03-14 13:48:52,676 - INFO - Loaded sample_12: 121 nodes, 100 elements
+2025-03-14 13:48:52,811 - INFO - Loaded sample_13: 144 nodes, 121 elements
+2025-03-14 13:48:52,979 - INFO - Loaded sample_14: 144 nodes, 121 elements
+2025-03-14 13:48:53,143 - INFO - Loaded sample_15: 121 nodes, 100 elements
+2025-03-14 13:48:53,293 - INFO - Loaded sample_16: 144 nodes, 121 elements
+2025-03-14 13:48:53,438 - INFO - Loaded sample_17: 64 nodes, 49 elements
+2025-03-14 13:48:53,604 - INFO - Loaded sample_18: 196 nodes, 169 elements
+2025-03-14 13:48:53,698 - INFO - Loaded sample_19: 64 nodes, 49 elements
+2025-03-14 13:48:54,071 - INFO - Loaded sample_20: 81 nodes, 64 elements
+2025-03-14 13:48:54,203 - INFO - Loaded sample_21: 169 nodes, 144 elements
+2025-03-14 13:48:54,293 - INFO - Loaded sample_22: 64 nodes, 49 elements
+2025-03-14 13:48:54,388 - INFO - Loaded sample_23: 196 nodes, 169 elements
+2025-03-14 13:48:54,515 - INFO - Loaded sample_24: 64 nodes, 49 elements
+2025-03-14 13:48:54,622 - INFO - Loaded sample_25: 100 nodes, 81 elements
+2025-03-14 13:48:54,722 - INFO - Loaded sample_26: 64 nodes, 49 elements
+2025-03-14 13:48:54,840 - INFO - Loaded sample_27: 196 nodes, 169 elements
+2025-03-14 13:48:54,971 - INFO - Loaded sample_28: 100 nodes, 81 elements
+2025-03-14 13:48:55,088 - INFO - Loaded sample_29: 64 nodes, 49 elements
+2025-03-14 13:48:55,255 - INFO - Loaded sample_30: 64 nodes, 49 elements
+2025-03-14 13:48:55,258 - INFO - Successfully loaded 30 samples
+2025-03-14 13:48:55,265 - INFO - Preparing datasets
+2025-03-14 13:48:55,269 - INFO - Dataset split: 21 train, 4 validation, 5 test
+2025-03-14 13:48:55,388 - INFO - Model created with 6 node features and 3 edge features
+2025-03-14 13:48:55,399 - INFO - Starting training for 150 epochs
+2025-03-14 13:48:55,756 - INFO - New best model at epoch 1
+2025-03-14 13:48:55,993 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:48:56,008 - INFO - Epoch 1/150 | Train Loss: 0.011095 | Val Loss: 0.002146 | Time: 0.49s | LR: 0.00100000
+2025-03-14 13:48:56,215 - INFO - New best model at epoch 2
+2025-03-14 13:48:56,420 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:48:56,424 - INFO - Epoch 2/150 | Train Loss: 0.003871 | Val Loss: 0.000786 | Time: 0.42s | LR: 0.00100000
+2025-03-14 13:48:56,663 - INFO - New best model at epoch 3
+2025-03-14 13:48:56,908 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:48:56,911 - INFO - Epoch 3/150 | Train Loss: 0.002165 | Val Loss: 0.000605 | Time: 0.48s | LR: 0.00100000
+2025-03-14 13:48:57,143 - INFO - New best model at epoch 4
+2025-03-14 13:48:57,374 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:48:57,374 - INFO - Epoch 4/150 | Train Loss: 0.001334 | Val Loss: 0.000462 | Time: 0.46s | LR: 0.00100000
+2025-03-14 13:48:57,650 - INFO - New best model at epoch 5
+2025-03-14 13:48:57,874 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:48:57,874 - INFO - Epoch 5/150 | Train Loss: 0.000955 | Val Loss: 0.000308 | Time: 0.50s | LR: 0.00100000
+2025-03-14 13:48:58,143 - INFO - New best model at epoch 6
+2025-03-14 13:48:58,291 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:48:58,307 - INFO - Epoch 6/150 | Train Loss: 0.000613 | Val Loss: 0.000212 | Time: 0.43s | LR: 0.00100000
+2025-03-14 13:48:58,590 - INFO - New best model at epoch 7
+2025-03-14 13:48:58,808 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:48:58,808 - INFO - Epoch 7/150 | Train Loss: 0.000450 | Val Loss: 0.000133 | Time: 0.50s | LR: 0.00100000
+2025-03-14 13:48:59,059 - INFO - New best model at epoch 8
+2025-03-14 13:48:59,209 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:48:59,209 - INFO - Epoch 8/150 | Train Loss: 0.000315 | Val Loss: 0.000080 | Time: 0.39s | LR: 0.00100000
+2025-03-14 13:48:59,500 - INFO - New best model at epoch 9
+2025-03-14 13:48:59,808 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:48:59,808 - INFO - Epoch 9/150 | Train Loss: 0.000222 | Val Loss: 0.000051 | Time: 0.60s | LR: 0.00100000
+2025-03-14 13:49:00,124 - INFO - New best model at epoch 10
+2025-03-14 13:49:00,285 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:49:00,285 - INFO - Epoch 10/150 | Train Loss: 0.000139 | Val Loss: 0.000031 | Time: 0.48s | LR: 0.00100000
+2025-03-14 13:54:01,243 - INFO - Using device: cpu
+2025-03-14 13:54:01,243 - INFO - Starting Wear Prediction GNN with custom dataset
+2025-03-14 13:54:01,259 - INFO - Loading dataset from wear_dataset
+2025-03-14 13:54:01,428 - INFO - Loaded sample_01: 121 nodes, 100 elements
+2025-03-14 13:54:02,594 - INFO - Loaded sample_02: 81 nodes, 64 elements
+2025-03-14 13:54:03,209 - INFO - Loaded sample_03: 121 nodes, 100 elements
+2025-03-14 13:54:03,777 - INFO - Loaded sample_04: 144 nodes, 121 elements
+2025-03-14 13:54:03,892 - INFO - Loaded sample_05: 121 nodes, 100 elements
+2025-03-14 13:54:04,025 - INFO - Loaded sample_06: 196 nodes, 169 elements
+2025-03-14 13:54:04,202 - INFO - Loaded sample_07: 81 nodes, 64 elements
+2025-03-14 13:54:04,308 - INFO - Loaded sample_08: 121 nodes, 100 elements
+2025-03-14 13:54:04,447 - INFO - Loaded sample_09: 100 nodes, 81 elements
+2025-03-14 13:54:04,557 - INFO - Loaded sample_10: 81 nodes, 64 elements
+2025-03-14 13:54:04,688 - INFO - Loaded sample_11: 100 nodes, 81 elements
+2025-03-14 13:54:04,840 - INFO - Loaded sample_12: 121 nodes, 100 elements
+2025-03-14 13:54:04,962 - INFO - Loaded sample_13: 144 nodes, 121 elements
+2025-03-14 13:54:05,105 - INFO - Loaded sample_14: 144 nodes, 121 elements
+2025-03-14 13:54:05,227 - INFO - Loaded sample_15: 121 nodes, 100 elements
+2025-03-14 13:54:05,374 - INFO - Loaded sample_16: 144 nodes, 121 elements
+2025-03-14 13:54:05,511 - INFO - Loaded sample_17: 64 nodes, 49 elements
+2025-03-14 13:54:05,642 - INFO - Loaded sample_18: 196 nodes, 169 elements
+2025-03-14 13:54:05,774 - INFO - Loaded sample_19: 64 nodes, 49 elements
+2025-03-14 13:54:05,906 - INFO - Loaded sample_20: 81 nodes, 64 elements
+2025-03-14 13:54:06,025 - INFO - Loaded sample_21: 169 nodes, 144 elements
+2025-03-14 13:54:06,143 - INFO - Loaded sample_22: 64 nodes, 49 elements
+2025-03-14 13:54:06,276 - INFO - Loaded sample_23: 196 nodes, 169 elements
+2025-03-14 13:54:06,468 - INFO - Loaded sample_24: 64 nodes, 49 elements
+2025-03-14 13:54:06,665 - INFO - Loaded sample_25: 100 nodes, 81 elements
+2025-03-14 13:54:06,808 - INFO - Loaded sample_26: 64 nodes, 49 elements
+2025-03-14 13:54:06,946 - INFO - Loaded sample_27: 196 nodes, 169 elements
+2025-03-14 13:54:07,061 - INFO - Loaded sample_28: 100 nodes, 81 elements
+2025-03-14 13:54:07,199 - INFO - Loaded sample_29: 64 nodes, 49 elements
+2025-03-14 13:54:07,350 - INFO - Loaded sample_30: 64 nodes, 49 elements
+2025-03-14 13:54:07,354 - INFO - Successfully loaded 30 samples
+2025-03-14 13:54:07,359 - INFO - Preparing datasets
+2025-03-14 13:54:07,368 - INFO - Dataset split: 21 train, 4 validation, 5 test
+2025-03-14 13:54:07,526 - INFO - Model created with 6 node features and 3 edge features
+2025-03-14 13:54:07,530 - INFO - Starting training for 150 epochs
+2025-03-14 13:54:07,758 - INFO - New best model at epoch 1
+2025-03-14 13:54:07,927 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:07,942 - INFO - Epoch 1/150 | Train Loss: 0.011095 | Val Loss: 0.002146 | Time: 0.32s | LR: 0.00100000
+2025-03-14 13:54:08,078 - INFO - New best model at epoch 2
+2025-03-14 13:54:08,238 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:08,242 - INFO - Epoch 2/150 | Train Loss: 0.003871 | Val Loss: 0.000786 | Time: 0.30s | LR: 0.00100000
+2025-03-14 13:54:08,397 - INFO - New best model at epoch 3
+2025-03-14 13:54:08,571 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:08,575 - INFO - Epoch 3/150 | Train Loss: 0.002165 | Val Loss: 0.000605 | Time: 0.33s | LR: 0.00100000
+2025-03-14 13:54:08,749 - INFO - New best model at epoch 4
+2025-03-14 13:54:08,896 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:08,899 - INFO - Epoch 4/150 | Train Loss: 0.001334 | Val Loss: 0.000462 | Time: 0.32s | LR: 0.00100000
+2025-03-14 13:54:09,050 - INFO - New best model at epoch 5
+2025-03-14 13:54:09,196 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:09,196 - INFO - Epoch 5/150 | Train Loss: 0.000955 | Val Loss: 0.000308 | Time: 0.29s | LR: 0.00100000
+2025-03-14 13:54:09,331 - INFO - New best model at epoch 6
+2025-03-14 13:54:09,496 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:09,496 - INFO - Epoch 6/150 | Train Loss: 0.000613 | Val Loss: 0.000212 | Time: 0.30s | LR: 0.00100000
+2025-03-14 13:54:09,674 - INFO - New best model at epoch 7
+2025-03-14 13:54:09,810 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:09,813 - INFO - Epoch 7/150 | Train Loss: 0.000450 | Val Loss: 0.000133 | Time: 0.32s | LR: 0.00100000
+2025-03-14 13:54:09,963 - INFO - New best model at epoch 8
+2025-03-14 13:54:10,095 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:10,098 - INFO - Epoch 8/150 | Train Loss: 0.000315 | Val Loss: 0.000080 | Time: 0.28s | LR: 0.00100000
+2025-03-14 13:54:10,251 - INFO - New best model at epoch 9
+2025-03-14 13:54:10,432 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:10,432 - INFO - Epoch 9/150 | Train Loss: 0.000222 | Val Loss: 0.000051 | Time: 0.33s | LR: 0.00100000
+2025-03-14 13:54:10,599 - INFO - New best model at epoch 10
+2025-03-14 13:54:10,793 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 13:54:10,797 - INFO - Epoch 10/150 | Train Loss: 0.000139 | Val Loss: 0.000031 | Time: 0.36s | LR: 0.00100000
+2025-03-14 14:05:44,537 - INFO - Using device: cpu
+2025-03-14 14:05:44,537 - INFO - Starting Wear Prediction GNN with custom dataset
+2025-03-14 14:05:44,552 - INFO - Loading dataset from wear_dataset
+2025-03-14 14:05:44,731 - INFO - Loaded sample_01: 121 nodes, 100 elements
+2025-03-14 14:05:45,469 - INFO - Loaded sample_02: 81 nodes, 64 elements
+2025-03-14 14:05:46,082 - INFO - Loaded sample_03: 121 nodes, 100 elements
+2025-03-14 14:05:46,669 - INFO - Loaded sample_04: 144 nodes, 121 elements
+2025-03-14 14:05:46,771 - INFO - Loaded sample_05: 121 nodes, 100 elements
+2025-03-14 14:05:46,881 - INFO - Loaded sample_06: 196 nodes, 169 elements
+2025-03-14 14:05:46,958 - INFO - Loaded sample_07: 81 nodes, 64 elements
+2025-03-14 14:05:47,043 - INFO - Loaded sample_08: 121 nodes, 100 elements
+2025-03-14 14:05:47,117 - INFO - Loaded sample_09: 100 nodes, 81 elements
+2025-03-14 14:05:47,199 - INFO - Loaded sample_10: 81 nodes, 64 elements
+2025-03-14 14:05:47,288 - INFO - Loaded sample_11: 100 nodes, 81 elements
+2025-03-14 14:05:47,390 - INFO - Loaded sample_12: 121 nodes, 100 elements
+2025-03-14 14:05:47,487 - INFO - Loaded sample_13: 144 nodes, 121 elements
+2025-03-14 14:05:47,589 - INFO - Loaded sample_14: 144 nodes, 121 elements
+2025-03-14 14:05:47,688 - INFO - Loaded sample_15: 121 nodes, 100 elements
+2025-03-14 14:05:47,804 - INFO - Loaded sample_16: 144 nodes, 121 elements
+2025-03-14 14:05:47,889 - INFO - Loaded sample_17: 64 nodes, 49 elements
+2025-03-14 14:05:47,973 - INFO - Loaded sample_18: 196 nodes, 169 elements
+2025-03-14 14:05:48,072 - INFO - Loaded sample_19: 64 nodes, 49 elements
+2025-03-14 14:05:49,042 - INFO - Loaded sample_20: 81 nodes, 64 elements
+2025-03-14 14:05:49,164 - INFO - Loaded sample_21: 169 nodes, 144 elements
+2025-03-14 14:05:49,255 - INFO - Loaded sample_22: 64 nodes, 49 elements
+2025-03-14 14:05:49,398 - INFO - Loaded sample_23: 196 nodes, 169 elements
+2025-03-14 14:05:49,473 - INFO - Loaded sample_24: 64 nodes, 49 elements
+2025-03-14 14:05:49,606 - INFO - Loaded sample_25: 100 nodes, 81 elements
+2025-03-14 14:05:49,756 - INFO - Loaded sample_26: 64 nodes, 49 elements
+2025-03-14 14:05:49,931 - INFO - Loaded sample_27: 196 nodes, 169 elements
+2025-03-14 14:05:50,039 - INFO - Loaded sample_28: 100 nodes, 81 elements
+2025-03-14 14:05:50,157 - INFO - Loaded sample_29: 64 nodes, 49 elements
+2025-03-14 14:05:50,269 - INFO - Loaded sample_30: 64 nodes, 49 elements
+2025-03-14 14:05:50,269 - INFO - Successfully loaded 30 samples
+2025-03-14 14:05:50,269 - INFO - Preparing datasets
+2025-03-14 14:05:50,281 - INFO - Dataset split: 21 train, 4 validation, 5 test
+2025-03-14 14:05:50,412 - INFO - Model created with 6 node features and 3 edge features
+2025-03-14 14:05:50,422 - INFO - Starting training for 150 epochs
+2025-03-14 14:05:50,844 - INFO - New best model at epoch 1
+2025-03-14 14:05:51,022 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:51,022 - INFO - Epoch 1/150 | Train Loss: 0.011095 | Val Loss: 0.002146 | Time: 0.50s | LR: 0.00100000
+2025-03-14 14:05:51,273 - INFO - New best model at epoch 2
+2025-03-14 14:05:51,439 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:51,442 - INFO - Epoch 2/150 | Train Loss: 0.003871 | Val Loss: 0.000786 | Time: 0.42s | LR: 0.00100000
+2025-03-14 14:05:51,709 - INFO - New best model at epoch 3
+2025-03-14 14:05:51,880 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:51,884 - INFO - Epoch 3/150 | Train Loss: 0.002165 | Val Loss: 0.000605 | Time: 0.44s | LR: 0.00100000
+2025-03-14 14:05:52,149 - INFO - New best model at epoch 4
+2025-03-14 14:05:52,308 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:52,308 - INFO - Epoch 4/150 | Train Loss: 0.001334 | Val Loss: 0.000462 | Time: 0.42s | LR: 0.00100000
+2025-03-14 14:05:52,593 - INFO - New best model at epoch 5
+2025-03-14 14:05:52,778 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:52,778 - INFO - Epoch 5/150 | Train Loss: 0.000955 | Val Loss: 0.000308 | Time: 0.47s | LR: 0.00100000
+2025-03-14 14:05:53,120 - INFO - New best model at epoch 6
+2025-03-14 14:05:53,343 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:53,347 - INFO - Epoch 6/150 | Train Loss: 0.000613 | Val Loss: 0.000212 | Time: 0.55s | LR: 0.00100000
+2025-03-14 14:05:53,699 - INFO - New best model at epoch 7
+2025-03-14 14:05:53,850 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:53,850 - INFO - Epoch 7/150 | Train Loss: 0.000450 | Val Loss: 0.000133 | Time: 0.50s | LR: 0.00100000
+2025-03-14 14:05:54,186 - INFO - New best model at epoch 8
+2025-03-14 14:05:54,427 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:54,427 - INFO - Epoch 8/150 | Train Loss: 0.000315 | Val Loss: 0.000080 | Time: 0.57s | LR: 0.00100000
+2025-03-14 14:05:54,798 - INFO - New best model at epoch 9
+2025-03-14 14:05:54,962 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:54,978 - INFO - Epoch 9/150 | Train Loss: 0.000222 | Val Loss: 0.000051 | Time: 0.54s | LR: 0.00100000
+2025-03-14 14:05:55,296 - INFO - New best model at epoch 10
+2025-03-14 14:05:55,534 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:55,542 - INFO - Epoch 10/150 | Train Loss: 0.000139 | Val Loss: 0.000031 | Time: 0.56s | LR: 0.00100000
+2025-03-14 14:05:56,208 - INFO - Saved prediction visualization for epoch 10
+2025-03-14 14:05:56,472 - INFO - New best model at epoch 11
+2025-03-14 14:05:56,612 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:56,612 - INFO - Epoch 11/150 | Train Loss: 0.000125 | Val Loss: 0.000021 | Time: 0.39s | LR: 0.00100000
+2025-03-14 14:05:56,870 - INFO - New best model at epoch 12
+2025-03-14 14:05:57,011 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:57,011 - INFO - Epoch 12/150 | Train Loss: 0.000094 | Val Loss: 0.000017 | Time: 0.38s | LR: 0.00100000
+2025-03-14 14:05:57,266 - INFO - New best model at epoch 13
+2025-03-14 14:05:57,444 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:57,444 - INFO - Epoch 13/150 | Train Loss: 0.000104 | Val Loss: 0.000012 | Time: 0.43s | LR: 0.00100000
+2025-03-14 14:05:57,682 - INFO - Epoch 14/150 | Train Loss: 0.000132 | Val Loss: 0.000035 | Time: 0.23s | LR: 0.00100000
+2025-03-14 14:05:57,937 - INFO - New best model at epoch 15
+2025-03-14 14:05:58,083 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:58,083 - INFO - Epoch 15/150 | Train Loss: 0.000077 | Val Loss: 0.000011 | Time: 0.40s | LR: 0.00100000
+2025-03-14 14:05:58,314 - INFO - New best model at epoch 16
+2025-03-14 14:05:58,749 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:58,751 - INFO - Epoch 16/150 | Train Loss: 0.000052 | Val Loss: 0.000006 | Time: 0.65s | LR: 0.00100000
+2025-03-14 14:05:58,949 - INFO - Epoch 17/150 | Train Loss: 0.000048 | Val Loss: 0.000006 | Time: 0.20s | LR: 0.00100000
+2025-03-14 14:05:59,181 - INFO - New best model at epoch 18
+2025-03-14 14:05:59,974 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:05:59,977 - INFO - Epoch 18/150 | Train Loss: 0.000035 | Val Loss: 0.000004 | Time: 1.01s | LR: 0.00100000
+2025-03-14 14:06:00,167 - INFO - New best model at epoch 19
+2025-03-14 14:06:00,363 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:06:00,373 - INFO - Epoch 19/150 | Train Loss: 0.000027 | Val Loss: 0.000003 | Time: 0.39s | LR: 0.00100000
+2025-03-14 14:06:00,568 - INFO - Epoch 20/150 | Train Loss: 0.000033 | Val Loss: 0.000004 | Time: 0.19s | LR: 0.00100000
+2025-03-14 14:06:00,744 - INFO - Model saved to wear_checkpoints\model_epoch_20.pt
+2025-03-14 14:06:01,280 - INFO - Saved prediction visualization for epoch 20
+2025-03-14 14:06:01,473 - INFO - New best model at epoch 21
+2025-03-14 14:06:01,666 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:06:01,666 - INFO - Epoch 21/150 | Train Loss: 0.000023 | Val Loss: 0.000002 | Time: 0.39s | LR: 0.00100000
+2025-03-14 14:06:01,895 - INFO - New best model at epoch 22
+2025-03-14 14:06:02,095 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:06:02,098 - INFO - Epoch 22/150 | Train Loss: 0.000023 | Val Loss: 0.000002 | Time: 0.42s | LR: 0.00100000
+2025-03-14 14:06:02,300 - INFO - New best model at epoch 23
+2025-03-14 14:06:02,467 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:06:02,483 - INFO - Epoch 23/150 | Train Loss: 0.000021 | Val Loss: 0.000002 | Time: 0.39s | LR: 0.00100000
+2025-03-14 14:06:02,719 - INFO - New best model at epoch 24
+2025-03-14 14:06:03,001 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:06:03,007 - INFO - Epoch 24/150 | Train Loss: 0.000017 | Val Loss: 0.000001 | Time: 0.52s | LR: 0.00100000
+2025-03-14 14:06:03,203 - INFO - Epoch 25/150 | Train Loss: 0.000018 | Val Loss: 0.000001 | Time: 0.18s | LR: 0.00100000
+2025-03-14 14:06:03,379 - INFO - Epoch 26/150 | Train Loss: 0.000019 | Val Loss: 0.000001 | Time: 0.18s | LR: 0.00100000
+2025-03-14 14:06:03,575 - INFO - Epoch 27/150 | Train Loss: 0.000019 | Val Loss: 0.000001 | Time: 0.18s | LR: 0.00100000
+2025-03-14 14:06:03,799 - INFO - New best model at epoch 28
+2025-03-14 14:06:03,968 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:06:03,971 - INFO - Epoch 28/150 | Train Loss: 0.000014 | Val Loss: 0.000001 | Time: 0.38s | LR: 0.00100000
+2025-03-14 14:06:04,195 - INFO - Epoch 29/150 | Train Loss: 0.000014 | Val Loss: 0.000001 | Time: 0.22s | LR: 0.00100000
+2025-03-14 14:06:04,430 - INFO - New best model at epoch 30
+2025-03-14 14:06:04,570 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:06:04,573 - INFO - Epoch 30/150 | Train Loss: 0.000012 | Val Loss: 0.000001 | Time: 0.37s | LR: 0.00100000
+2025-03-14 14:06:05,109 - INFO - Saved prediction visualization for epoch 30
+2025-03-14 14:06:05,344 - INFO - Epoch 31/150 | Train Loss: 0.000013 | Val Loss: 0.000001 | Time: 0.23s | LR: 0.00100000
+2025-03-14 14:06:05,585 - INFO - Epoch 32/150 | Train Loss: 0.000013 | Val Loss: 0.000001 | Time: 0.24s | LR: 0.00100000
+2025-03-14 14:06:05,814 - INFO - Epoch 33/150 | Train Loss: 0.000014 | Val Loss: 0.000001 | Time: 0.23s | LR: 0.00100000
+2025-03-14 14:06:06,076 - INFO - New best model at epoch 34
+2025-03-14 14:06:06,234 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-14 14:06:06,236 - INFO - Epoch 34/150 | Train Loss: 0.000009 | Val Loss: 0.000001 | Time: 0.42s | LR: 0.00100000
+2025-03-14 14:06:06,490 - INFO - Epoch 35/150 | Train Loss: 0.000011 | Val Loss: 0.000001 | Time: 0.25s | LR: 0.00100000
+2025-03-14 14:06:06,735 - INFO - Epoch 36/150 | Train Loss: 0.000009 | Val Loss: 0.000001 | Time: 0.25s | LR: 0.00100000
+2025-03-14 14:06:07,022 - INFO - Epoch 37/150 | Train Loss: 0.000010 | Val Loss: 0.000001 | Time: 0.29s | LR: 0.00100000
+2025-03-14 14:06:07,292 - INFO - Epoch 38/150 | Train Loss: 0.000012 | Val Loss: 0.000001 | Time: 0.27s | LR: 0.00100000
+2025-03-14 14:06:07,593 - INFO - Epoch 39/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.30s | LR: 0.00100000
+2025-03-14 14:06:07,881 - INFO - Epoch 40/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.29s | LR: 0.00050000
+2025-03-14 14:06:08,056 - INFO - Model saved to wear_checkpoints\model_epoch_40.pt
+2025-03-14 14:06:08,833 - INFO - Saved prediction visualization for epoch 40
+2025-03-14 14:06:09,109 - INFO - Epoch 41/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.27s | LR: 0.00050000
+2025-03-14 14:06:09,362 - INFO - Epoch 42/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.25s | LR: 0.00050000
+2025-03-14 14:06:09,654 - INFO - Epoch 43/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.29s | LR: 0.00050000
+2025-03-14 14:06:10,016 - INFO - Epoch 44/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.36s | LR: 0.00050000
+2025-03-14 14:06:10,340 - INFO - Epoch 45/150 | Train Loss: 0.000009 | Val Loss: 0.000001 | Time: 0.32s | LR: 0.00050000
+2025-03-14 14:06:10,651 - INFO - Epoch 46/150 | Train Loss: 0.000007 | Val Loss: 0.000001 | Time: 0.31s | LR: 0.00025000
+2025-03-14 14:06:11,039 - INFO - Epoch 47/150 | Train Loss: 0.000007 | Val Loss: 0.000001 | Time: 0.39s | LR: 0.00025000
+2025-03-14 14:06:11,434 - INFO - Epoch 48/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.39s | LR: 0.00025000
+2025-03-14 14:06:11,764 - INFO - Epoch 49/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.33s | LR: 0.00025000
+2025-03-14 14:06:11,764 - INFO - Early stopping at epoch 49
+2025-03-14 14:06:11,780 - INFO - Restored best model from epoch 34
+2025-03-14 14:06:12,281 - INFO - Test Metrics: MSE=0.000001, MAE=0.000756, RMSE=0.000801
+2025-03-14 14:06:12,281 - INFO - Test evaluation: {'test_loss': 6.467505386353878e-07, 'mse': 6.411622166524467e-07, 'mae': 0.0007560322410427034, 'rmse': 0.0008007260621525347}
+2025-03-14 14:06:12,430 - INFO - Model saved to wear_prediction_model.pt
+2025-03-17 09:17:09,400 - INFO - Using device: cpu
+2025-03-17 09:17:09,436 - INFO - Starting Wear Prediction GNN with custom dataset
+2025-03-17 09:17:09,467 - INFO - Loading dataset from wear_dataset
+2025-03-17 09:17:11,134 - INFO - Loaded sample_01: 121 nodes, 100 elements
+2025-03-17 09:17:14,624 - INFO - Loaded sample_02: 81 nodes, 64 elements
+2025-03-17 09:17:17,107 - INFO - Loaded sample_03: 121 nodes, 100 elements
+2025-03-17 09:17:19,847 - INFO - Loaded sample_04: 144 nodes, 121 elements
+2025-03-17 09:17:20,788 - INFO - Loaded sample_05: 121 nodes, 100 elements
+2025-03-17 09:17:21,795 - INFO - Loaded sample_06: 196 nodes, 169 elements
+2025-03-17 09:17:22,691 - INFO - Loaded sample_07: 81 nodes, 64 elements
+2025-03-17 09:17:23,580 - INFO - Loaded sample_08: 121 nodes, 100 elements
+2025-03-17 09:17:24,585 - INFO - Loaded sample_09: 100 nodes, 81 elements
+2025-03-17 09:17:25,521 - INFO - Loaded sample_10: 81 nodes, 64 elements
+2025-03-17 09:17:26,516 - INFO - Loaded sample_11: 100 nodes, 81 elements
+2025-03-17 09:17:27,457 - INFO - Loaded sample_12: 121 nodes, 100 elements
+2025-03-17 09:17:28,444 - INFO - Loaded sample_13: 144 nodes, 121 elements
+2025-03-17 09:17:29,440 - INFO - Loaded sample_14: 144 nodes, 121 elements
+2025-03-17 09:17:30,388 - INFO - Loaded sample_15: 121 nodes, 100 elements
+2025-03-17 09:17:31,417 - INFO - Loaded sample_16: 144 nodes, 121 elements
+2025-03-17 09:17:32,442 - INFO - Loaded sample_17: 64 nodes, 49 elements
+2025-03-17 09:17:33,461 - INFO - Loaded sample_18: 196 nodes, 169 elements
+2025-03-17 09:17:34,505 - INFO - Loaded sample_19: 64 nodes, 49 elements
+2025-03-17 09:17:35,526 - INFO - Loaded sample_20: 81 nodes, 64 elements
+2025-03-17 09:17:36,660 - INFO - Loaded sample_21: 169 nodes, 144 elements
+2025-03-17 09:17:37,580 - INFO - Loaded sample_22: 64 nodes, 49 elements
+2025-03-17 09:17:38,508 - INFO - Loaded sample_23: 196 nodes, 169 elements
+2025-03-17 09:17:39,524 - INFO - Loaded sample_24: 64 nodes, 49 elements
+2025-03-17 09:17:40,445 - INFO - Loaded sample_25: 100 nodes, 81 elements
+2025-03-17 09:17:41,427 - INFO - Loaded sample_26: 64 nodes, 49 elements
+2025-03-17 09:17:42,349 - INFO - Loaded sample_27: 196 nodes, 169 elements
+2025-03-17 09:17:43,286 - INFO - Loaded sample_28: 100 nodes, 81 elements
+2025-03-17 09:17:44,388 - INFO - Loaded sample_29: 64 nodes, 49 elements
+2025-03-17 09:17:45,260 - INFO - Loaded sample_30: 64 nodes, 49 elements
+2025-03-17 09:17:45,280 - INFO - Successfully loaded 30 samples
+2025-03-17 09:17:45,300 - INFO - Preparing datasets
+2025-03-17 09:17:45,323 - INFO - Dataset split: 21 train, 4 validation, 5 test
+2025-03-17 09:17:45,611 - INFO - Model created with 6 node features and 3 edge features
+2025-03-17 09:17:45,639 - INFO - Starting training for 150 epochs
+2025-03-17 09:17:46,497 - INFO - New best model at epoch 1
+2025-03-17 09:17:48,199 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:17:48,221 - INFO - Epoch 1/150 | Train Loss: 0.011095 | Val Loss: 0.002146 | Time: 2.17s | LR: 0.00100000
+2025-03-17 09:17:48,472 - INFO - New best model at epoch 2
+2025-03-17 09:17:50,109 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:17:50,130 - INFO - Epoch 2/150 | Train Loss: 0.003871 | Val Loss: 0.000786 | Time: 1.84s | LR: 0.00100000
+2025-03-17 09:17:50,334 - INFO - New best model at epoch 3
+2025-03-17 09:17:51,387 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:17:51,418 - INFO - Epoch 3/150 | Train Loss: 0.002165 | Val Loss: 0.000605 | Time: 1.26s | LR: 0.00100000
+2025-03-17 09:17:51,614 - INFO - New best model at epoch 4
+2025-03-17 09:17:52,764 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:17:53,345 - INFO - Epoch 4/150 | Train Loss: 0.001334 | Val Loss: 0.000462 | Time: 1.91s | LR: 0.00100000
+2025-03-17 09:17:53,551 - INFO - New best model at epoch 5
+2025-03-17 09:17:54,490 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:17:54,530 - INFO - Epoch 5/150 | Train Loss: 0.000955 | Val Loss: 0.000308 | Time: 1.13s | LR: 0.00100000
+2025-03-17 09:17:54,726 - INFO - New best model at epoch 6
+2025-03-17 09:17:55,724 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:17:55,810 - INFO - Epoch 6/150 | Train Loss: 0.000613 | Val Loss: 0.000212 | Time: 1.26s | LR: 0.00100000
+2025-03-17 09:17:56,046 - INFO - New best model at epoch 7
+2025-03-17 09:17:57,255 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:17:57,275 - INFO - Epoch 7/150 | Train Loss: 0.000450 | Val Loss: 0.000133 | Time: 1.44s | LR: 0.00100000
+2025-03-17 09:17:57,486 - INFO - New best model at epoch 8
+2025-03-17 09:17:59,475 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:17:59,576 - INFO - Epoch 8/150 | Train Loss: 0.000315 | Val Loss: 0.000080 | Time: 2.28s | LR: 0.00100000
+2025-03-17 09:17:59,853 - INFO - New best model at epoch 9
+2025-03-17 09:18:01,529 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:01,552 - INFO - Epoch 9/150 | Train Loss: 0.000222 | Val Loss: 0.000051 | Time: 1.92s | LR: 0.00100000
+2025-03-17 09:18:01,752 - INFO - New best model at epoch 10
+2025-03-17 09:18:03,355 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:03,377 - INFO - Epoch 10/150 | Train Loss: 0.000139 | Val Loss: 0.000031 | Time: 1.80s | LR: 0.00100000
+2025-03-17 09:18:05,085 - INFO - Saved prediction visualization for epoch 10
+2025-03-17 09:18:05,260 - INFO - New best model at epoch 11
+2025-03-17 09:18:07,081 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:07,115 - INFO - Epoch 11/150 | Train Loss: 0.000125 | Val Loss: 0.000021 | Time: 2.00s | LR: 0.00100000
+2025-03-17 09:18:07,346 - INFO - New best model at epoch 12
+2025-03-17 09:18:08,905 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:08,929 - INFO - Epoch 12/150 | Train Loss: 0.000094 | Val Loss: 0.000017 | Time: 1.79s | LR: 0.00100000
+2025-03-17 09:18:09,119 - INFO - New best model at epoch 13
+2025-03-17 09:18:10,643 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:11,296 - INFO - Epoch 13/150 | Train Loss: 0.000104 | Val Loss: 0.000012 | Time: 2.34s | LR: 0.00100000
+2025-03-17 09:18:11,524 - INFO - Epoch 14/150 | Train Loss: 0.000132 | Val Loss: 0.000035 | Time: 0.19s | LR: 0.00100000
+2025-03-17 09:18:11,778 - INFO - New best model at epoch 15
+2025-03-17 09:18:12,816 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:12,840 - INFO - Epoch 15/150 | Train Loss: 0.000077 | Val Loss: 0.000011 | Time: 1.28s | LR: 0.00100000
+2025-03-17 09:18:13,043 - INFO - New best model at epoch 16
+2025-03-17 09:18:14,226 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:14,282 - INFO - Epoch 16/150 | Train Loss: 0.000052 | Val Loss: 0.000006 | Time: 1.42s | LR: 0.00100000
+2025-03-17 09:18:14,473 - INFO - Epoch 17/150 | Train Loss: 0.000048 | Val Loss: 0.000006 | Time: 0.17s | LR: 0.00100000
+2025-03-17 09:18:14,679 - INFO - New best model at epoch 18
+2025-03-17 09:18:15,866 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:15,889 - INFO - Epoch 18/150 | Train Loss: 0.000035 | Val Loss: 0.000004 | Time: 1.39s | LR: 0.00100000
+2025-03-17 09:18:16,127 - INFO - New best model at epoch 19
+2025-03-17 09:18:17,362 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:17,385 - INFO - Epoch 19/150 | Train Loss: 0.000027 | Val Loss: 0.000003 | Time: 1.47s | LR: 0.00100000
+2025-03-17 09:18:17,578 - INFO - Epoch 20/150 | Train Loss: 0.000033 | Val Loss: 0.000004 | Time: 0.15s | LR: 0.00100000
+2025-03-17 09:18:18,517 - INFO - Model saved to wear_checkpoints\model_epoch_20.pt
+2025-03-17 09:18:20,349 - INFO - Saved prediction visualization for epoch 20
+2025-03-17 09:18:20,521 - INFO - New best model at epoch 21
+2025-03-17 09:18:21,458 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:21,476 - INFO - Epoch 21/150 | Train Loss: 0.000023 | Val Loss: 0.000002 | Time: 1.10s | LR: 0.00100000
+2025-03-17 09:18:21,668 - INFO - New best model at epoch 22
+2025-03-17 09:18:22,631 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:22,651 - INFO - Epoch 22/150 | Train Loss: 0.000023 | Val Loss: 0.000002 | Time: 1.15s | LR: 0.00100000
+2025-03-17 09:18:22,837 - INFO - New best model at epoch 23
+2025-03-17 09:18:23,977 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:24,000 - INFO - Epoch 23/150 | Train Loss: 0.000021 | Val Loss: 0.000002 | Time: 1.33s | LR: 0.00100000
+2025-03-17 09:18:24,216 - INFO - New best model at epoch 24
+2025-03-17 09:18:25,671 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:25,691 - INFO - Epoch 24/150 | Train Loss: 0.000017 | Val Loss: 0.000001 | Time: 1.67s | LR: 0.00100000
+2025-03-17 09:18:25,965 - INFO - Epoch 25/150 | Train Loss: 0.000018 | Val Loss: 0.000001 | Time: 0.25s | LR: 0.00100000
+2025-03-17 09:18:26,194 - INFO - Epoch 26/150 | Train Loss: 0.000019 | Val Loss: 0.000001 | Time: 0.19s | LR: 0.00100000
+2025-03-17 09:18:26,412 - INFO - Epoch 27/150 | Train Loss: 0.000019 | Val Loss: 0.000001 | Time: 0.18s | LR: 0.00100000
+2025-03-17 09:18:26,589 - INFO - New best model at epoch 28
+2025-03-17 09:18:27,837 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:27,857 - INFO - Epoch 28/150 | Train Loss: 0.000014 | Val Loss: 0.000001 | Time: 1.42s | LR: 0.00100000
+2025-03-17 09:18:28,069 - INFO - Epoch 29/150 | Train Loss: 0.000014 | Val Loss: 0.000001 | Time: 0.19s | LR: 0.00100000
+2025-03-17 09:18:28,256 - INFO - New best model at epoch 30
+2025-03-17 09:18:29,359 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:29,381 - INFO - Epoch 30/150 | Train Loss: 0.000012 | Val Loss: 0.000001 | Time: 1.29s | LR: 0.00100000
+2025-03-17 09:18:31,432 - INFO - Saved prediction visualization for epoch 30
+2025-03-17 09:18:31,646 - INFO - Epoch 31/150 | Train Loss: 0.000013 | Val Loss: 0.000001 | Time: 0.19s | LR: 0.00100000
+2025-03-17 09:18:31,822 - INFO - Epoch 32/150 | Train Loss: 0.000013 | Val Loss: 0.000001 | Time: 0.16s | LR: 0.00100000
+2025-03-17 09:18:31,997 - INFO - Epoch 33/150 | Train Loss: 0.000014 | Val Loss: 0.000001 | Time: 0.16s | LR: 0.00100000
+2025-03-17 09:18:32,193 - INFO - New best model at epoch 34
+2025-03-17 09:18:33,217 - INFO - Model saved to wear_checkpoints\best_model.pt
+2025-03-17 09:18:33,245 - INFO - Epoch 34/150 | Train Loss: 0.000009 | Val Loss: 0.000001 | Time: 1.22s | LR: 0.00100000
+2025-03-17 09:18:33,440 - INFO - Epoch 35/150 | Train Loss: 0.000011 | Val Loss: 0.000001 | Time: 0.18s | LR: 0.00100000
+2025-03-17 09:18:33,601 - INFO - Epoch 36/150 | Train Loss: 0.000009 | Val Loss: 0.000001 | Time: 0.14s | LR: 0.00100000
+2025-03-17 09:18:33,795 - INFO - Epoch 37/150 | Train Loss: 0.000010 | Val Loss: 0.000001 | Time: 0.15s | LR: 0.00100000
+2025-03-17 09:18:34,011 - INFO - Epoch 38/150 | Train Loss: 0.000012 | Val Loss: 0.000001 | Time: 0.20s | LR: 0.00100000
+2025-03-17 09:18:34,230 - INFO - Epoch 39/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.20s | LR: 0.00100000
+2025-03-17 09:18:34,453 - INFO - Epoch 40/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.20s | LR: 0.00050000
+2025-03-17 09:18:35,313 - INFO - Model saved to wear_checkpoints\model_epoch_40.pt
+2025-03-17 09:18:37,467 - INFO - Saved prediction visualization for epoch 40
+2025-03-17 09:18:37,689 - INFO - Epoch 41/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.19s | LR: 0.00050000
+2025-03-17 09:18:37,926 - INFO - Epoch 42/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.20s | LR: 0.00050000
+2025-03-17 09:18:38,140 - INFO - Epoch 43/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.18s | LR: 0.00050000
+2025-03-17 09:18:38,315 - INFO - Epoch 44/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.15s | LR: 0.00050000
+2025-03-17 09:18:38,533 - INFO - Epoch 45/150 | Train Loss: 0.000009 | Val Loss: 0.000001 | Time: 0.19s | LR: 0.00050000
+2025-03-17 09:18:38,720 - INFO - Epoch 46/150 | Train Loss: 0.000007 | Val Loss: 0.000001 | Time: 0.16s | LR: 0.00025000
+2025-03-17 09:18:38,883 - INFO - Epoch 47/150 | Train Loss: 0.000007 | Val Loss: 0.000001 | Time: 0.15s | LR: 0.00025000
+2025-03-17 09:18:39,087 - INFO - Epoch 48/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.17s | LR: 0.00025000
+2025-03-17 09:18:39,259 - INFO - Epoch 49/150 | Train Loss: 0.000008 | Val Loss: 0.000001 | Time: 0.15s | LR: 0.00025000
+2025-03-17 09:18:39,346 - INFO - Early stopping at epoch 49
+2025-03-17 09:18:39,399 - INFO - Restored best model from epoch 34
+2025-03-17 09:18:40,477 - INFO - Test Metrics: MSE=0.000001, MAE=0.000756, RMSE=0.000801
+2025-03-17 09:18:40,542 - INFO - Test evaluation: {'test_loss': 6.467505386353878e-07, 'mse': 6.411622166524467e-07, 'mae': 0.0007560322410427034, 'rmse': 0.0008007260621525347}
+2025-03-17 09:18:41,283 - INFO - Model saved to wear_prediction_model.pt
+2025-03-17 09:21:11,230 - INFO - Using device: cpu
+2025-03-17 09:21:11,252 - ERROR - For prediction, node-file, element-file, and material-file are required
+2025-03-17 09:24:49,771 - INFO - Using device: cpu
+2025-03-17 09:24:49,805 - INFO - Loading real data from files
