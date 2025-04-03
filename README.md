@@ -1,4 +1,4 @@
-# Mesh Graph Neural Network for Wear Prediction
+# Mesh Graph Neural Network for Material Wear Prediction
 
 ## Overview
 
